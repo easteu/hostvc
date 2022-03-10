@@ -3,4 +3,4 @@ Hello there I'm host
 - 👀 I’m skilled with PHP.
 - 🌱 I’m currently learning LUA
 - 👨 Pronouns: he/him
-- 📝 Discord: host#0001
+- 📝 Discord: east#6734
